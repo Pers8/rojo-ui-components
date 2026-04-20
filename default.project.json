@@ -1,0 +1,21 @@
+{
+    "name": "MyUIProject",
+    "tree": {
+      "$className": "DataModel",
+  
+      "ReplicatedStorage": {
+        "Packages": {
+          "$path": "Packages"
+        },
+        "UI": {
+          "$path": "src/ui"
+        }
+      },
+  
+      "StarterPlayer": {
+        "StarterPlayerScripts": {
+          "$path": "src/client"
+        }
+      }
+    }
+  }
